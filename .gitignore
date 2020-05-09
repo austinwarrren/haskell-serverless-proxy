@@ -1,0 +1,4 @@
+.stack-work/
+haskell-serverless-proxy.cabal
+build/
+*~
